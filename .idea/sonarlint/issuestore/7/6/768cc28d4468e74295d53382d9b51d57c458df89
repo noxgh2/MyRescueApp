@@ -1,0 +1,11 @@
+
+˜	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡æ²úÿÿÿÿ8…Êùô1J$ab46c5be-109c-47df-9ca5-440c34e47afb
+p
+java:S16046"(Make this anonymous inner class a lambda(Ëıš§ùÿÿÿÿ8Ï‚Éùô1J$8d116391-c9de-474d-a5a5-388697611e65
+p
+java:S1604A"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ8¡ÍØªò1J$35393da7-7d52-4bd3-ae94-c55186e9ed25
+j
+java:S1604\"(Make this anonymous inner class a lambda(–§º8¤ÍØªò1J$4ffa6bde-585e-496c-aa84-dde7a66d6300
+¡	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€Æ›íüÿÿÿÿ8ŠÏØªò1J$6b16ff20-d8a0-4fc3-ad51-af3b9ef7a4b0
+É
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8ĞØªò1J$913a639c-8b5f-4d63-8fd3-4a2b61d9dd37

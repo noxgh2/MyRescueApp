@@ -1,0 +1,35 @@
+
+x
+java:S1066“"/Merge this if statement with the enclosing one.(àò®„ÿÿÿÿÿ8ıĞÆ©ò1J$2d4c0ad0-c8e9-4c16-93c3-bfdf91e1b886
+˜	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Âúÿÿÿÿÿ8¶“Æ©ò1J$329c6b06-61fe-4ff4-93a4-139c67da0457
+p
+java:S1604E"(Make this anonymous inner class a lambda(Ëıš§ùÿÿÿÿ8¸“Æ©ò1J$8ea7aa60-ef12-4835-8f91-7a23fed94f7c
+k
+java:S1604M"(Make this anonymous inner class a lambda(ŸúÑ¦8¹“Æ©ò1J$82cad438-a941-4013-89b9-b19445a06c2e
+k
+java:S1604ƒ"(Make this anonymous inner class a lambda(ç’ƒL8ƒÑÆ©ò1J$290270f2-eacf-412c-a696-16f06805e8f3
+Ÿ	java:S116("XRename this field "EditTextDescS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¶™ÿÿÿÿÿ8Ç”Æ©ò1J$47941418-4551-4695-963e-d6c47d3360fb
+Ÿ	java:S116("XRename this field "EditTextDescD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¶™ÿÿÿÿÿ8È”Æ©ò1J$68a63deb-fd51-4d59-8682-a013ae68eac7
+‘	java:S116*"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø·“¹8È”Æ©ò1J$030a59d1-12b9-46ae-8575-639257701ea7
+s
+java:S1659("+Declare "EditTextDescD" on a separate line.(ö¶™ÿÿÿÿÿ8è”Æ©ò1J$d3875069-6911-455d-93d0-903b304681fe
+e
+java:S1659*""Declare "Back" on a separate line.(ø·“¹8è”Æ©ò1J$7f11e7e5-e833-46f6-aa44-771af7f024b4
+
+java:S1450-"ZRemove the "imageBitmap" field and declare it as a local variable in the relevant methods.(ãªÇù8ê”Æ©ò1J$847a4f78-4ba3-462d-b0a4-cde3d05983f9
+r
+java:S1659\"*Declare "descriptionS" on a separate line.(€öòûÿÿÿÿ8Š•Æ©ò1J$5333bee8-fc8f-4007-b725-f3375866bfaf
+•
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(«ªÚÂ8•Æ©ò1J$83963473-0e43-43d2-9e49-c6d70882187c
+Œ
+java:S1659m"IDeclare "descriptionS" and all following declarations on a separate line.(‹ğ«Å8’•Æ©ò1J$f99fced1-37d4-4e55-8a58-abd0529502bc
+s
+java:S1874‚"/Remove this use of "Handler"; it is deprecated.(’Ú©Š8£ÒÆ©ò1J$959d95a1-b35b-41a1-ab60-163c300dcbc9
+p
+java:S1602©",Remove useless curly braces around statement(øöœë8¬ÒÆ©ò1J$1fd3d0e3-6fec-4b65-ae12-69dd7ad78140
+
+java:S1874°"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ8­ÒÆ©ò1J$984e988f-4e61-4cc1-afc6-038b9ca52044
+~
+java:S1161°":Add the "@Override" annotation above this method signature(ŸŒ¹Ñ8¯ÒÆ©ò1J$8572ddaa-5605-4a2f-8a43-db83ec577a61
+o
+java:S1874µ"+Remove this use of "get"; it is deprecated.(Êü²Õ8°ÒÆ©ò1J$187f22cf-7953-49db-85c5-02298787eeab

@@ -1,0 +1,18 @@
+
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¾ Ã
+C
+java:S1604O"(Make this anonymous inner class a lambda(Ëýš§ùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨Õèþùÿÿÿÿ
+x
+java:S1450"bRemove the "sensorAccelerometer" field and declare it as a local variable in the relevant methods.(ëóÜÏ
+}
+java:S1450"bRemove the "sensorMagneticField" field and declare it as a local variable in the relevant methods.(”Ü…šþÿÿÿÿ
+r
+java:S1450"\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Þ¬–„
+—
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÐŠß±
+—
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÐŠß±
+h	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÝÈ°ÿÿÿÿÿ
+F
+java:S1172Z"+Remove this unused method parameter "view".(ÉÝÈ°ÿÿÿÿÿ

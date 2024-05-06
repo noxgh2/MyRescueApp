@@ -1,0 +1,20 @@
+
+w
+java:S1066h"/Merge this if statement with the enclosing one.(àò®„ÿÿÿÿÿ8Õ¡Şñ1J$ab67de15-4ebd-41f6-9764-42115b3aa8c5
+˜	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÉ×éùÿÿÿÿ8å¡Şñ1J$b081aba5-1ad0-4b26-a5b6-5d76509946b5
+p
+java:S1604."(Make this anonymous inner class a lambda(Ëıš§ùÿÿÿÿ8ï¡Şñ1J$226ca8bc-f35d-4a58-9ddc-e87c252c8d23
+p
+java:S16048"(Make this anonymous inner class a lambda(»Ã‡ûÿÿÿÿ8ğ¡Şñ1J$c51ade22-db3a-42a7-b4e4-a89cf608d0e3
+j
+java:S1604Y"(Make this anonymous inner class a lambda(ç’ƒL8ñ¡Şñ1J$50082b0c-be52-4f79-bda7-bcaba3bfaf23
+	java:S116"WRename this field "EditTextDesc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡İ¹Öûÿÿÿÿ8¡¥Şñ1J$f63853b8-988a-464b-a9bd-7547d3b5f54e
+–	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë•„ùÿÿÿÿ8²¥Şñ1J$3925ada7-fb91-45e1-a0f2-32a39c31aa92
+•
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(«ªÚÂ8¡¨Şñ1J$f16269d1-da31-4c75-846f-4900fc7ce1c0
+n
+java:S1659F"&Declare "username" on a separate line.(å¶…şÿÿÿÿÿ8¿Ìâ©ò1J$57ae3c26-5d09-4243-b374-27484f073375
+r
+java:S1874X"/Remove this use of "Handler"; it is deprecated.(’Ú©Š8Ç¨Şñ1J$15f401a5-0c88-4eea-ac18-af2e260d20f8
+o
+java:S1602}",Remove useless curly braces around statement(øöœë8Û¨Şñ1J$a4436942-5a55-4c1d-9e95-6430b88287a5

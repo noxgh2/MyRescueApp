@@ -1,0 +1,26 @@
+
+w
+java:S1066t"/Merge this if statement with the enclosing one.(àò®„ÿÿÿÿÿ8áã¸¯ò1J$2f28adfd-8887-475d-a999-f699da827611
+p
+java:S16044"(Make this anonymous inner class a lambda(Ëıš§ùÿÿÿÿ8èã¸¯ò1J$d3047c5d-a510-4553-9994-76f34941bc20
+p
+java:S1604?"(Make this anonymous inner class a lambda(ËÍøÿÿÿÿÿ8èã¸¯ò1J$884e2648-9feb-42ff-aadf-d250ee01dc01
+p
+java:S1604L"(Make this anonymous inner class a lambda(Şá´ûúÿÿÿÿ8éã¸¯ò1J$2a84b956-4ddd-4ad0-9ce4-f5be6e9c69df
+j
+java:S1604c"(Make this anonymous inner class a lambda(ç’ƒL8éã¸¯ò1J$612d9754-37f5-48fa-ac11-36226693e38b
+k
+java:S1604X"(Make this anonymous inner class a lambda(¡‡·¬8éã¸¯ò1J$2442cfe0-a423-450f-b338-6951d4e75a5b
+¢	java:S116"[Rename this field "EditTextFullName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡„Ÿîüÿÿÿÿ8¶å¸¯ò1J$30ebb3b9-2367-48db-a55f-bf0ec161b896
+Ÿ	java:S116"XRename this field "EditTextPhone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡„Ÿîüÿÿÿÿ8¶å¸¯ò1J$b43ed31e-7c82-43f6-abe4-f65203cff5c8
+–	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¨®™üÿÿÿÿ8¶å¸¯ò1J$ef623625-8384-49a5-a6a1-22fb1746ccc6
+s
+java:S1659"+Declare "EditTextPhone" on a separate line.(‡„Ÿîüÿÿÿÿ8àå¸¯ò1J$41d9810d-8f09-4c2f-b31c-394f0cf67106
+
+java:S1659"GDeclare "btnBroOSis" and all following declarations on a separate line.(ÿØ™¼ùÿÿÿÿ8áå¸¯ò1J$7ad46bd4-1cd2-4856-a8d7-8d085c05a92a
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¨Œşÿÿÿÿ8õå¸¯ò1J$1418d7cc-fe17-4638-9cfe-bd32c73fd585
+ˆ
+java:S1659Z"EDeclare "Relation" and all following declarations on a separate line.(¯º”8¦æ¸¯ò1J$04c1d3b1-07fc-44c1-8914-f30016a53fb3
+r
+java:S1874b"/Remove this use of "Handler"; it is deprecated.(’Ú©Š8¬æ¸¯ò1J$bca7dfd7-2a31-4612-9f66-7295845beb7c

@@ -1,0 +1,14 @@
+
+œ
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºãûó8Ã ¨¯ò1J$f32eac52-5229-4b47-a65d-926e029f983c
+µ
+java:S1319W"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(­êÁ¡ÿÿÿÿÿ8Æ ¨¯ò1J$c5453e97-172a-41ca-82f7-fd10f106dff7
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÁÊ’ª8¨º’¯ò1J$6703a29c-cf37-4413-a11e-26a59917e7b5
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŒÛ¿Ôþÿÿÿÿ8¨º’¯ò1J$2ea403d9-9247-47b8-bb78-b6204189cf61
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·°öžûÿÿÿÿ8¨º’¯ò1J$650da007-070a-4f23-a3e9-6dfb599d53fe
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆÁêß8¨º’¯ò1J$8413d4f4-2752-419f-a72a-28ff7f7cec8e
+•	java:S116"SRename this field "_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òº€²8©º’¯ò1J$637e7a49-1755-4bb2-a216-f1d7d466b562
+˜	java:S116"VRename this field "Privat_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úïÙ­8©º’¯ò1J$95bf856c-11ff-48b0-adb3-877ba447ed5d
+~	java:S125="<This block of commented-out lines of code should be removed.(¿‹†8õ ¨¯ò1J$e24f5ca1-b2e1-4fbc-aca1-f2a376066e9c
+„
+java:S1128"ARemove this unused import 'android.content.Context.MODE_PRIVATE'.(–Ù¶8Òðª¯ò1J$c442df0b-c480-4757-b43c-cf5fe5668f22

@@ -1,0 +1,35 @@
+
+x
+java:S1066"/Merge this if statement with the enclosing one.(ΰς®„ÿÿÿÿÿ8Υ–©άρ1J$c1179ceb-34b0-4245-a407-1e8fbb7bd46f
+™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ΫάΈωÿÿÿÿ8Φ–©άρ1J$884e69f7-cb19-4db1-8476-226876c5316a
+p
+java:S1604Q"(Make this anonymous inner class a lambda(Λύ§ωÿÿÿÿ8Χ–©άρ1J$6c9fff18-00df-4d03-aadc-e43ea7e8a19e
+k
+java:S1604Y"(Make this anonymous inner class a lambda(ϊΡ¦8Χ–©άρ1J$9354f436-906d-45e9-8d62-6e25b9f49056
+k
+java:S1604‹"(Make this anonymous inner class a lambda(η’ƒL8Χ–©άρ1J$00a80192-2a5d-4dd3-ace5-c6d024c18dbf
+™
+java:S1128
+"QRemove this unnecessary import: java.lang classes are always implicitly imported.(τέΥύÿÿÿÿ8¦—©άρ1J$cd6fa905-cddc-44cd-bdb6-cfaf21360bad
+	java:S1160"WRename this field "EditTextDesc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡έΉΦϋÿÿÿÿ8¨—©άρ1J$d5499685-1b3f-4093-a11d-ccef6db74ff5
+‘	java:S1162"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψ·“Ή8¨—©άρ1J$b29e73a8-f598-4df9-8b74-15c6ec588a76
+e
+java:S16592""Declare "Back" on a separate line.(ψ·“Ή8³—©άρ1J$0967e4b3-fd1e-4792-aaf1-9bc7e1ed2703
+•
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(«ªΪΒ8Π—©άρ1J$2793bc1d-5dbd-43ba-aaf8-61c74eb3b8cf
+n
+java:S1659u"&Declare "username" on a separate line.(§Ή‚ÿÿÿÿÿÿ8ΒοΩ©ς1J$ac0f095e-258b-4e52-a11a-2e4aa528fc74
+s
+java:S1874"/Remove this use of "Handler"; it is deprecated.(’Ϊ©8Ω—©άρ1J$72f901a3-0e2c-4fb0-bf59-664fe13fbaa3
+p
+java:S1602°",Remove useless curly braces around statement(ψφλ8ή—©άρ1J$9f56b6fe-d064-41d3-b30a-e69eb1f3d58b
+
+java:S1874Ί"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ΉΡ8ή—©άρ1J$d8458ee6-09cc-497a-9378-34b45865d7c8
+~
+java:S1161Ί":Add the "@Override" annotation above this method signature(ΉΡ8ΰ—©άρ1J$e59741a4-d4d3-4bf9-9c3a-c7becb8bb850
+o
+java:S1874Ώ"+Remove this use of "get"; it is deprecated.(Κό²Υ8ΰ—©άρ1J$e1a9f274-fb65-4c45-8dd8-d59b067e7bd5
+|
+java:S1068-"9Remove this unused "REQUEST_IMAGE_CAPTURE" private field.(—Α¤¶8ε—©άρ1J$d48e8cbd-0a88-4890-ac9a-954c7d24b72c
+~
+java:S1068."6Remove this unused "REQUEST_IMAGE_PICK" private field.(±Νΰψÿÿÿÿ8ε—©άρ1J$8c3be34a-e9ce-4029-86fb-96919434b541

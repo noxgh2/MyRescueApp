@@ -1,0 +1,22 @@
+
+w
+java:S1066M"/Merge this if statement with the enclosing one.(àò®„ÿÿÿÿÿ8éÑûó1J$8685bb1e-8fc3-42ec-867f-1b8661388729
+j
+java:S16045"(Make this anonymous inner class a lambda(ç’ƒL8óÑûó1J$904ca989-73d0-40f7-9ef2-401869efd4f0
+k
+java:S1604&"(Make this anonymous inner class a lambda(ßÖãÓ8ôÑûó1J$92ea6273-e4b8-479a-9a9b-02917e59e858
+Ÿ	java:S116"XRename this field "EditTextFname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øæÑüÿÿÿÿ8¶Ôûó1J$e9b62aab-23e4-4960-9d4e-1d8e1e564b95
+Ÿ	java:S116"XRename this field "EditTextLname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øæÑüÿÿÿÿ8¸Ôûó1J$9393c38b-9325-4a81-b50f-693175911ec5
+¤	java:S116"]Rename this field "EditTextNationalID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øæÑüÿÿÿÿ8¸Ôûó1J$e80df404-90e2-4c98-9de4-4e613d89311b
+¢	java:S116"[Rename this field "EditTextUsername" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øæÑüÿÿÿÿ8¸Ôûó1J$233eea0b-1c94-4ab1-8ea4-a984b098e9f9
+Ÿ	java:S116"XRename this field "EditTextPhone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øæÑüÿÿÿÿ8¸Ôûó1J$4f1ae6e2-cbce-49d1-9294-8abaf813ca59
+¢	java:S116"[Rename this field "EditTextPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øæÑüÿÿÿÿ8¹Ôûó1J$a2b81969-1678-4b6a-82f5-e4a323a7cadb
+¤	java:S116"]Rename this field "EditTextRePassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øæÑüÿÿÿÿ8¹Ôûó1J$6463797c-0733-4a70-b79c-06804339c589
+’
+java:S1659"JDeclare "EditTextLname" and all following declarations on a separate line.(£øæÑüÿÿÿÿ8©Õûó1J$124ceccd-3cbd-4404-8614-6b37ec071829
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¨Œşÿÿÿÿ8ÒÕûó1J$c1910f30-6293-4caa-b10c-4e3cc38b4871
+„
+java:S1659)"BDeclare "lname" and all following declarations on a separate line.(×”ü#8Öûó1J$dc8c85ca-1ea3-4215-8fb4-7493f1c128d0
+r
+java:S18744"/Remove this use of "Handler"; it is deprecated.(’Ú©Š8¥Öûó1J$7bbd0204-68f9-4837-8544-68bfc19e938e

@@ -1,0 +1,35 @@
+
+i
+java:S1604"(Make this anonymous inner class a lambda(Ëıš§ùÿÿÿÿJ$42985ee4-2f99-47de-a7d3-f0b1bd1f18df
+d
+java:S1604("(Make this anonymous inner class a lambda(¯®é»J$afbdc177-7960-486c-8f35-ff05d69092cb
+i
+java:S16041"(Make this anonymous inner class a lambda(úñ‡ŸıÿÿÿÿJ$30b97333-dfe7-455d-b413-02bceacb71a0
+i
+java:S1604:"(Make this anonymous inner class a lambda(ıµ€æıÿÿÿÿJ$b99e29f1-051f-49f2-950c-85620ecda5bb
+d
+java:S1604C"(Make this anonymous inner class a lambda(Éïı°J$e2d8dab7-cce7-489b-9ad6-eb612b5d8343
+i
+java:S1604L"(Make this anonymous inner class a lambda(ÑñƒšıÿÿÿÿJ$fb6c52f2-3abd-4fe8-a896-fa05d83f71d8
+k
+java:S1604U"(Make this anonymous inner class a lambda(š½¨ı8ÎŸùô1J$7eed9e69-eb26-4b2f-943c-c36a52dfd1d5
+“	java:S116"XRename this field "HighwayPatrol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ùá¿J$9202e31b-2a65-45bd-92d3-4646b0897713
+’	java:S116"WRename this field "Borderpatrol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ùá¿J$2e6c976b-f5e0-4cbd-a03a-9f7859d28ba7
+	java:S116"TRename this field "Ambulance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ùá¿J$2d26da7e-adb7-4564-9c1a-2e584c46e8a7
+“	java:S116"XRename this field "TrafficPolice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ùá¿J$575c1c22-6ddf-4a83-821a-f5fab726cadc
+–	java:S116"[Rename this field "GeneralEmergency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ùá¿J$24da378e-8e28-4a00-a85e-aa11a7dc3329
+–	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë•„ùÿÿÿÿ8İÎ ùô1J$a08a5987-8dde-4810-acd2-c25b7b5546cb
+†
+java:S1659"JDeclare "HighwayPatrol" and all following declarations on a separate line.(¶ùá¿J$cc5cfeb3-27a3-4479-8198-aad002162560
+”
+java:S1450"XRemove the "Ambulance" field and declare it as a local variable in the relevant methods.(¶ùá¿J$ed9228ac-aaf1-4147-8728-0268a1e7822f
+—
+java:S1450"[Remove the "Borderpatrol" field and declare it as a local variable in the relevant methods.(¶ùá¿J$42bef063-2f0e-4d1a-8594-cb981ae3dd00
+›
+java:S1450"_Remove the "GeneralEmergency" field and declare it as a local variable in the relevant methods.(¶ùá¿J$bcb954bb-95b4-4c87-8114-d05a513972b7
+˜
+java:S1450"\Remove the "HighwayPatrol" field and declare it as a local variable in the relevant methods.(¶ùá¿J$c0f1c042-9757-438a-bc45-6e57b982356c
+˜
+java:S1450"\Remove the "TrafficPolice" field and declare it as a local variable in the relevant methods.(¶ùá¿J$629ea31d-c8de-4e26-9c3e-69c8aed30220
+
+java:S1450"TRemove the "civil" field and declare it as a local variable in the relevant methods.(¶ùá¿J$2ce3c8ef-edfd-432b-b634-1aa2d169cd09

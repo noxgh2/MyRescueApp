@@ -1,0 +1,20 @@
+
+˜	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡æ²úÿÿÿÿ8Êˆìùô1J$820c16f4-8271-4445-9ce9-402df8218aac
+p
+java:S16045"(Make this anonymous inner class a lambda(Ëýš§ùÿÿÿÿ8þóÐ×ô1J$964410f3-63fa-47c2-b6c4-da43135a5cc4
+k
+java:S1604<"(Make this anonymous inner class a lambda(¾¥’8€ôÐ×ô1J$60fa1364-27e8-4efe-867e-707c90958600
+k
+java:S1604C"(Make this anonymous inner class a lambda(Å‰îð8³ªëùô1J$8e0a1d8d-1bff-4d75-9407-fcfc7fca43bc
+p
+java:S1604U"(Make this anonymous inner class a lambda(±æÿÚýÿÿÿÿ8¹áÈ×ô1J$25958478-058f-4433-b979-72373b1da146
+j
+java:S1604g"(Make this anonymous inner class a lambda(–§º8»áÈ×ô1J$4501a58e-c185-4aae-8ae6-6936a6f65905
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ÊšÏùÿÿÿÿ8¿áÈ×ô1J$7c7477a4-53fa-4459-ab26-c97a41585e62
+¡	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ôê—¥ýÿÿÿÿ8ÖâÈ×ô1J$03dd3a1d-fe36-4377-9995-3d9f2bf40249
+„
+java:S1659""BDeclare "phone" and all following declarations on a separate line.(äÀÆ(8ŒãÈ×ô1J$b45036f0-d0bd-4988-ae6c-bcbad68523ca
+k
+java:S1659%"(Declare "btnEupdate" on a separate line.(©“Ê¤8ãÈ×ô1J$e4e47a7e-37e8-44f8-93c3-7d2e05b7dffe
+É
+java:S1186i"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8ÈãÈ×ô1J$70ae8088-527e-4b1e-8f3f-664f6c7719aa

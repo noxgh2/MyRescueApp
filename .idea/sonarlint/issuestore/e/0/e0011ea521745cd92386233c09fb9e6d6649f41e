@@ -1,0 +1,21 @@
+
+‹
+java:S1192I"HDefine a constant instead of duplicating this literal "Success" 4 times.(à¯§Â8“˜‚úô1J$b3cc4b5f-c282-4e9e-8eaf-7312e0340b0f
+w
+java:S1066:"/Merge this if statement with the enclosing one.(àò®„ÿÿÿÿÿ8›˜‚úô1J$e74942fa-67c2-4f8f-91f5-1d17fd700a2b
+w
+java:S1066F"/Merge this if statement with the enclosing one.(¸ºõÔùÿÿÿÿ8›˜‚úô1J$7ea500d8-1a52-46cb-8681-c16330677a3a
+p
+java:S1604"(Make this anonymous inner class a lambda(ÈÖÜ¹úÿÿÿÿ8¤ºúô1J$cb1b61c7-856f-4017-857d-c00374033dd5
+j
+java:S1604/"(Make this anonymous inner class a lambda(ç’ƒL8˜‚úô1J$02ca2773-a902-4b4c-850a-79bbc4842508
+p
+java:S1604&"(Make this anonymous inner class a lambda(£ìÒèøÿÿÿÿ8˜‚úô1J$7c40f0e7-8917-4304-89c1-7829cce38dee
+
+java:S1659"7Declare "textInputEditTextPassword" on a separate line.(©Ëüøÿÿÿÿ8Î©úô1J$f4a96b9e-6a5c-477e-b857-a6689a954b32
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(¨Œşÿÿÿÿ8„»úô1J$f48e52cc-ef37-4214-b4d8-14ea40de5964
+i
+java:S1659)"&Declare "password" on a separate line.(ŸÊ˜8”™‚úô1J$e0569b5c-7beb-45be-9be9-d851902b6f5b
+r
+java:S1874."/Remove this use of "Handler"; it is deprecated.(’Ú©Š8”™‚úô1J$91f5ce96-da98-4e24-b6ef-69236a9c8c52
